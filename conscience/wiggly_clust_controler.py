@@ -67,7 +67,7 @@ class Controleur():
         self.vue=Vue(self,None)
         #self.vue.dessinemodele(None)
         #self.initserveurpyro()
-        self.demarresession()
+        #self.demarresession()
         self.vue.root.mainloop()
         
     # def initserveurpyro(self):
